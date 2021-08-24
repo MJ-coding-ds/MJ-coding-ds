@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJ-coding-ds
 - 👀 I’m interested in Python, Data Science, R-, SQL etc. 
 - 🌱 I’m currently learning Python and Data Science 
-- 💞️ I’m looking to collaborate on Data Science Projetcs 
+- 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me meerim.jeembaeva@gmail.com
 
 <!---
